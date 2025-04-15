@@ -11,7 +11,7 @@ This project analyzes trends in AI-related jobs, including salaries, remote work
 
 ## How to Use  
 1. Clone this repository.  
-2. Open `analysis.ipynb` in Jupyter Notebook.  
+2. Open `AI_CareerScopeipynb` in Jupyter Notebook.  
 
 ## Key Findings  
 - Remote jobs pay **20% more** on average.  
