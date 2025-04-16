@@ -1,6 +1,6 @@
 # AI Job Market Analysis  
 
-## Project Overview  
+## Project Overview 
 This project analyzes trends in AI-related jobs, including salaries, remote work benefits, and geographic hotspots.  
 
 ## Tools Used  
