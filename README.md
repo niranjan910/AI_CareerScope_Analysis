@@ -10,6 +10,18 @@ A data analytics project exploring trends in AI-related jobs — including salar
 -	The aim is to generate valuable insights for job seekers, companies, and analysts to better understand the evolving landscape of AI careers.
 
 
+## Problem Statement
+As Artificial Intelligence rapidly grows across industries, both job seekers and organizations face uncertainty about AI job trends.
+This project addresses the following questions:
+•	Which industries are leading in AI adoption?
+•	What are the common required skills for AI roles?
+•	How does company size relate to salaries in AI jobs?
+•	What is the distribution between remote and onsite AI jobs?
+•	Which job titles are at higher automation risk?
+•	What is the projected growth for AI-related roles?
+
+
+
 ---
 
 ## 🛠️ Tools & Technologies
