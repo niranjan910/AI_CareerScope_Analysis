@@ -5,7 +5,10 @@ A data analytics project exploring trends in AI-related jobs — including salar
 ---
 
 ## 📌 Project Overview
-This project aims to uncover insights from AI job market data to help job seekers, companies, and analysts understand current trends in AI careers.
+-	This project explores the AI job market by analysing trends in job titles, industries, required skills, salaries, remote work options, and future growth projections.
+
+-	The aim is to generate valuable insights for job seekers, companies, and analysts to better understand the evolving landscape of AI careers.
+
 
 ---
 
