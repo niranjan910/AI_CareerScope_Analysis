@@ -1,7 +1,8 @@
 # 📊 AI Job Market Analysis
 
 A data analytics project exploring trends in AI-related jobs — including salary patterns, remote work benefits, top industries, and geographic demand.
-
+- Author - Niranjan
+- Date - 26 April 2025
 ---
 
 ## 📌 Project Overview
