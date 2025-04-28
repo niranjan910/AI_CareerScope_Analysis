@@ -34,7 +34,7 @@ This project addresses the following questions:
 
 ## 📂 How to Use
 1. Clone this repository.
-2. Download the Dataset 
+2. Download the Dataset `ai_job_data.csv`
 3. Open `AI_CareerScopeipynb` in **Jupyter Notebook**.
 4. Run the notebook cells sequentially to view analysis and visualizations.
 5. For reference see the Presentation `AI Career Scope Documentation.pdf`
