@@ -1,0 +1,126 @@
+['age',
+ 'black',
+ 'case',
+ 'clerical',
+ 'construc',
+ 'educ',
+ 'earns74',
+ 'gdhlth',
+ 'inlf',
+ 'leis1',
+ 'leis2',
+ 'leis3',
+ 'smsa',
+ 'lhrwage',
+ 'lothinc',
+ 'male',
+ 'marr',
+ 'prot',
+ 'rlxall',
+ 'selfe',
+ 'sleep',
+ 'slpnaps',
+ 'south',
+ 'spsepay',
+ 'spwrk75',
+ 'totwrk',
+ 'union',
+ 'worknrm',
+ 'workscnd',
+ 'exper',
+ 'yngkid',
+ 'yrsmarr',
+ 'hrwage',
+ 'agesq']
+
+
+
+
+
+age: Age in years.
+black: Equal to 1 if the individual is of Black race.
+case: Case identifier.
+clerical: Equal to 1 if the individual is a clerical worker.
+construc: Equal to 1 if the individual is a construction worker.
+educ: Years of schooling.
+earns74: Total earnings in 1974.
+gdhlth: Equal to 1 if the individual is in good or excellent health.
+inlf: Equal to 1 if the individual is in the labor force.
+leis1: Sleep time minus working time.
+leis2: Sleep time (including short naps) minus working time.
+leis3: Relaxation and leisure time minus working time.
+smsa: Equal to 1 if the individual lives in a Standard Metropolitan Statistical Area (SMSA).
+lhrwage: Natural logarithm of hourly wage.
+lothinc: Natural logarithm of other income, unless income is less than 0.
+male: Equal to 1 if the individual is male.
+marr: Equal to 1 if the individual is married.
+prot: Equal to 1 if the individual is Protestant.
+rlxall: Total relaxation and leisure time, including personal activities.
+selfe: Equal to 1 if the individual is self-employed.
+sleep: Minutes of sleep at night per week.
+slpnaps: Minutes of sleep, including naps, per week.
+south: Equal to 1 if the individual lives in the South.
+spsepay: Spousal wage income.
+spwrk75: Equal to 1 if the spouse works.
+totwrk: Minutes worked per week.
+union: Equal to 1 if the individual belongs to a labor union.
+worknrm: Minutes worked in the main job.
+workscnd: Minutes worked in the second job.
+exper: Work experience calculated as age - education - 6.
+yngkid: Equal to 1 if children under 3 years old are present.
+yrsmarr: Years married.
+hrwage: Hourly wage.
+agesq: Age squared.
+
+
+
+
+
+
+
+Observations made :-
+1 - lhrwage having missing value 174
+2 - hrwage having missing values 174
+3 - Age = 28 have more data 36 records 
+    Age = 63 have less data 2 records 
+
+4 - Balck race - 35
+    Non Black race - 671
+
+5 - case is not a important colum we can drop it 
+
+6 - clerical is having 3 unique values need to fix that 
+    0.1822 needs to be fixed 
+
+7 - Construct is having 3 unique values need to fix it too
+
+8 - Majority of them are from high school 
+
+9 - people with 0 income -- 110
+    people maximum income -- 42500
+
+10 - change the name from gdhlth to health 
+     good health - 629
+     bad health - 77
+
+11 - labour fource 532 
+     not in labour fource 174
+
+12 - Standard Metropolitan Statistical Area 424
+     non 282
+
+13. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
