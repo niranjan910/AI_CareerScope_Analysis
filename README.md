@@ -52,34 +52,34 @@ The analysis highlights that remote AI jobs offer approximately 20% higher salar
 
 ### Industry Trends:
 
-* **Healthcare AI and FinTech** lead in the number of AI job postings.
-* **Manufacturing and Education** sectors are gradually increasing their AI workforce integration.
-* Industries investing heavily in AI innovation are offering significantly higher average salaries.
+* **Manufacturing** leads with ~58 counts, followed closely by **Education and Technology**, highlighting strong sector representation.
+* **Finance, Telecommunications, Energy**, and **Entertainment** show moderate counts, while **Transportation trails** at ~39, the lowest.
+* The color gradient (yellow to blue) reflects count intensity, with a gradual decline and diverse sector coverage, indicating balanced representation without extreme dominance.
 ![Industry Count Distribution](images/Industry_count_distribution.png)
 
 
 ### Skill Requirements:
 
-* **Top Skills**: Machine Learning, Python programming, Deep Learning, Natural Language Processing.
-* Demand for interdisciplinary AI expertise (e.g., AI + Domain Knowledge) is growing.
-* Soft skills like project management and communication are increasingly valued in AI job descriptions.
+* **Project Management** (12.1%) is the top in-demand skill, followed closely by Cybersecurity and Python (11.7% each).
+* **Machine Learning** (10.5%) highlights AI's rising importance, while UX/UI Design, Sales, and Data Analysis (9.7% each) reflect diverse needs.
+* **Marketing** (9.1%), **JavaScript** (8.9%), and Communication (6.9%) show a balanced mix of technical and soft skills, emphasizing multidisciplinary demand.
+![Skill_Requirements](images/Distribution_of_Required_skills.png)
 
 
+### Location and Remote Work Patterns:
 
-### Geographic and Remote Work Patterns:
-
-* **Highest Demand Cities**: San Francisco, Bangalore, London.
-* Remote roles are not only higher-paying but are becoming increasingly standard across industries.
-* Emerging AI job markets are appearing in second-tier tech cities globally.
-
+* **San Francisco** leads with an equal split between remote and non-remote jobs, while **Paris** and **London** favor remote roles.
+* **Sydney** and **Singapore** lean toward non-remote jobs, whereas **Toronto** and **Tokyo** show near-balanced distributions.
+* Remote work is widely available across major cities, but adoption varies by region.
+![Location_and_Remote_Work_Patterns](images/Remote_Friendly_Jobs_by_Location.png)
 
 
 ### Automation Risk and Future Growth:
 
-* Entry-level data processing jobs show high automation risk (>60%).
-* Roles such as AI Research Scientists and AI Product Managers have very low automation risk and strong projected growth.
-* Upskilling into AI-specialized fields greatly enhances job security and career progression.
-
+* **AI as a Complement, Not a Threat:** High AI adoption correlates with **lower automation risk** for roles like AI Researcher, HR Manager, and Product Manager, suggesting AI enhances rather than replaces these jobs.
+* **Vulnerable vs. Resilient Roles:** While **Marketing Specialist** and **Sales Manager** face higher automation risk due to repetitive tasks, **technical roles (Software Engineer, Data Scientist, Cybersecurity Analyst)** remain low-risk, as AI struggles to outpace evolving demands.
+* **Context Matters:** Uncertainty bands (e.g., for AI Researcher) show predictions vary—AI’s impact depends on task adaptability, proving it reshapes jobs more than it eliminates them outright.
+![Automation_Risk_and_Future_Growth](images/Automation_Risk_by_JobTitle_and_AI_Adoption.png)
 
 
 ---
