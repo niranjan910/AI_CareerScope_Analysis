@@ -55,7 +55,7 @@ The analysis highlights that remote AI jobs offer approximately 20% higher salar
 * **Healthcare AI and FinTech** lead in the number of AI job postings.
 * **Manufacturing and Education** sectors are gradually increasing their AI workforce integration.
 * Industries investing heavily in AI innovation are offering significantly higher average salaries.
-
+![Industry Count Distribution](images/Industry_count_distribution.png)
 
 
 ### Skill Requirements:
