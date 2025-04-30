@@ -105,3 +105,9 @@ Several assumptions were made to address data limitations:
 * Remote classification was standardized manually where ambiguous descriptions were provided.
 
 
+
+
+  ## 📬 Contact
+For queries or collaborations:
+- **Email**: [niranjan991100@gmail.com]
+- **LinkedIn**: (https://www.linkedin.com/in/niranjan-k-a83517229/)
