@@ -23,7 +23,7 @@ An executive presentation summarizing the results can be found here `AI Career S
 
 # Data Structure & Initial Checks
 
-The project's dataset was sourced from Kaggle and includes over 15,000 AI job listings globally. The primary data fields are as follows:
+The primary data fields are as follows:
 - **Job Title**: Role designation for each listing
 - **Industry**: Sector classification of the employer
 - **Required Skills**: Key technical competencies demanded
@@ -110,4 +110,3 @@ Several assumptions were made to address data limitations:
 For queries or collaborations:
 - **Email**: [niranjan991100@gmail.com]
 - **LinkedIn**: (https://www.linkedin.com/in/niranjan-k-a83517229/)
-- **Kaggle** :(https://www.kaggle.com/code/deadsoul66/ai-careerscope)
