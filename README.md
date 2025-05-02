@@ -7,7 +7,7 @@ Date: 26 April 2025
 
 # Project Background
 
-This project explores the AI job market, focusing on global hiring trends, salary distributions, remote work patterns, and skills in demand. As a Data Analyst working within the AI and tech employment sector, the goal was to provide actionable insights that can support strategic hiring, career planning, and workforce development initiatives.
+This project explores the AI job market all over the world, focusing on global hiring trends, salary distributions, remote work patterns, and skills in demand. As a Data Analyst working within the AI and tech employment sector, the goal was to provide actionable insights that can support strategic hiring, career planning, and workforce development initiatives.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -18,13 +18,12 @@ Insights and recommendations are provided on the following key areas:
 
 The Python notebooks used to inspect, clean, and analyze the data can be found here `AI_CareerScopeipynb`.  
 An executive presentation summarizing the results can be found here `AI Career Scope Documentation.pdf` 
-An interactive visualization dashboard will be added shortly 
 
 ---
 
 # Data Structure & Initial Checks
 
-The project's dataset, `ai_job_data.csv`, was sourced from Kaggle and includes over 15,000 AI job listings globally. The primary data fields are as follows:
+The project's dataset was sourced from Kaggle and includes over 15,000 AI job listings globally. The primary data fields are as follows:
 - **Job Title**: Role designation for each listing
 - **Industry**: Sector classification of the employer
 - **Required Skills**: Key technical competencies demanded
@@ -111,3 +110,4 @@ Several assumptions were made to address data limitations:
 For queries or collaborations:
 - **Email**: [niranjan991100@gmail.com]
 - **LinkedIn**: (https://www.linkedin.com/in/niranjan-k-a83517229/)
+- **Kaggle** :(
