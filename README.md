@@ -110,4 +110,4 @@ Several assumptions were made to address data limitations:
 For queries or collaborations:
 - **Email**: [niranjan991100@gmail.com]
 - **LinkedIn**: (https://www.linkedin.com/in/niranjan-k-a83517229/)
-- **Kaggle** :(
+- **Kaggle** :(https://www.kaggle.com/code/deadsoul66/ai-careerscope)
