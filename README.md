@@ -1,7 +1,7 @@
 # AI Job Market Analysis
 
-Author: Niranjan
-Date: 26 April 2025
+- Author: Niranjan
+- Date: 26 April 2025
 
 ---
 
